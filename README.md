@@ -2,7 +2,7 @@
 ============================
 
 Name : Utsav Mangal, Sandeep Pal, Akshat Bhardwaj, Abhishek Sharma, Aashutosh
-Email : umangal@cs.iitr.ac.in, spal@cs.iitr.ac.in, abhardwaj@cs.iitr.ac.in, asharma1@cs.iitr.ac.in, aashutosh@cs.iitr.ac.in
+Email : umangal@cs.iitr.ac.in, spal1@cs.iitr.ac.in, abhardwaj@cs.iitr.ac.in, asharma1@cs.iitr.ac.in, aashutosh@cs.iitr.ac.in
 
 ## **Instructions to compile**  
 
